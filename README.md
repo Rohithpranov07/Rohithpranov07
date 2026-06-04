@@ -55,14 +55,13 @@ I build things that sit at the intersection of **AI, Web, and Design**. Whether 
 <tr>
 <td width="50%" valign="top">
 
-### 🛡️ [SENTINEL](https://github.com/Rohithpranov07/Sentinel)
-**Guardian of Semantic Truth** — agentic AI system that continuously monitors live system behavior against evolving specification documents to detect semantic correctness drift in real time.
-
+### 🛡️ [HotelOS](https://github.com/Rohithpranov07/HotelOS.git)
+**AI-powered hospitality operating system** — that centralizes hotel operations, guest communication, CRM, housekeeping, bookings, analytics, and staff workflows into one intelligent platform — helping hotels replace outdated software and manual processes with automation.
 **Highlights**
-- Multi-agent pipeline built on **LangGraph**
-- Live streaming with **Pathway** + **Kafka**
-- Explainable AI with confidence scoring
-- Real-time Streamlit dashboard
+- AI-powered guest communication & CRM
+- Smart housekeeping & staff management
+- Booking, operations & workflow automation
+- Real-time analytics & centralized dashboard
 
 `Python` `LangGraph` `Pathway` `Kafka` `LLM APIs` · ⭐ MIT Licensed
 
@@ -78,7 +77,7 @@ AI + **Blockchain** digital forensics platform that detects deepfakes and anchor
 - Automated legal-grade PDF reports
 - On-chain evidence anchoring
 
-`TypeScript` `FastAPI` `Solidity` `Web3.py` `HuggingFace`
+`TypeScript` `FastAPI` `React Native` `Supabase` `PostgreSQL` `WhatsApp API`
 
 </td>
 </tr>
@@ -116,8 +115,8 @@ A verifiable proof-of-work stack that combines automated artifact validation wit
 <tr>
 <td width="50%" valign="top">
 
-### 💱 [HotelOS](https://github.com/Rohithpranov07/HotelOS.git)
-HotelOS is an AI-powered hospitality operating system built to help hotels automate operations, enhance guest experiences, and improve efficiency through smart workflows, CRM, analytics, and centralized hotel management.
+### 💱 [KodairateIQ](https://github.com/Rohithpranov07/KodaiRateIQ.git)
+Revenue intelligence for modern hotels — an AI-driven pricing platform that analyzes market signals, competitor rates, occupancy trends, and demand patterns to help hotels make smarter pricing decisions and maximize RevPAR.
 
 `TypeScript` `Next.js` `Tailwind`
 🌐 [Live Demo](https://kodai-rate-iq.vercel.app)

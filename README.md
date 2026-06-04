@@ -116,8 +116,8 @@ A verifiable proof-of-work stack that combines automated artifact validation wit
 <tr>
 <td width="50%" valign="top">
 
-### 💱 [KodaiRateIQ](https://github.com/Rohithpranov07/KodaiRateIQ)
-A modern, data-driven rate intelligence dashboard with a clean, responsive UI and real-time data flows.
+### 💱 [HotelOS](https://github.com/Rohithpranov07/HotelOS.git)
+HotelOS is an AI-powered hospitality operating system built to help hotels automate operations, enhance guest experiences, and improve efficiency through smart workflows, CRM, analytics, and centralized hotel management.
 
 `TypeScript` `Next.js` `Tailwind`
 🌐 [Live Demo](https://kodai-rate-iq.vercel.app)
